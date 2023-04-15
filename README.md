@@ -1,6 +1,6 @@
 # CSE 573: Computer Vision and Image Processing
 
-You are free to download all the slides, but remember to include proper acknolwdgement for the contributors when use it.
+You are free to download all slides, but remember to include proper acknolwdgement to use it.
 
 ## Lecturer:
 
