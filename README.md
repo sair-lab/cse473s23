@@ -1,4 +1,4 @@
-# CSE 573: Computer Vision and Image Processing
+# CSE 573: Intro to Computer Vision & Image Processing
 
 You are free to download all slides, but remember to include proper acknolwdgement to use it.
 
