@@ -1,6 +1,7 @@
 # CSE 573: Intro to Computer Vision & Image Processing
 
-You are free to download all slides, but remember to include proper acknolwdgement to use it.
+- The slides were used in teaching for Spring 2023 CSE 473/573, University at Buffalo.
+- You are free to download and use them, but remember to include proper acknowledgement.
 
 ## Lecturer:
 
